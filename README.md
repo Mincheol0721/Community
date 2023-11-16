@@ -1,5 +1,26 @@
 # Community
 
+## 🖥️ 프로젝트 소개
+소통 및 중고거래를 주 기능으로 하는 
+부산 지역 소통 커뮤니티 사이트 입니다
+
+<br>
+
+## ⏱ 프로젝트 기간
+* 23.10.25 ~ 23.11.16 (총 24일)
+
+<br>
+
+## ⚙ 개발 환경
+- Server: `Apache Tomcat 9.0`, `Oracle DB Server`
+- Language: `Spring MVC`, `JAVA`, `Servlet`, `HTML`, `CSS`, `JavaScript`, `OracleSQL`
+- IDE: `Spring Tools Suite3`, `SQL Developer`
+- Configuration Management: `Git`, `Git Bash`, `Github`
+
+<br>
+
+## 🔗 내용 요약
+
 커뮤니티 사이트를 구현하면서 많은 기능들을 넣었지만 제가 구현한 기능들 위주로 
 
 간략하게 구현 화면을 이미지로 나타내보았습니다.
