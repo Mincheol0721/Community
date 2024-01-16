@@ -13,7 +13,7 @@
 
 ## ⚙ 개발 환경
 - Server: `Apache Tomcat 9.0`, `Oracle DB Server`
-- Language: `Spring MVC`, `JAVA`, `Servlet`, `HTML`, `CSS`, `JavaScript`, `OracleSQL`
+- Language: `Spring MVC`, `JAVA`, `Servlet`, `HTML`, `CSS`, `JavaScript`, `OracleSQL`, `Mybatis`
 - IDE: `Spring Tools Suite3`, `SQL Developer`
 - Configuration Management: `Git`, `Git Bash`, `Github`
 
